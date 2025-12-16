@@ -1,3 +1,5 @@
 pelicula 1
 peli 2
 pli 4
+mi
+bombo
